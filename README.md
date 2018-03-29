@@ -18,8 +18,8 @@ executable jar called 'org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar' i
 2. You can execute org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar in two ways. <br />
 (i) Provide inputs as command arguments. <br />
 Command for this is; <br />
-java -jar org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar <CipherText> <KeystorePath> <KeystoreAlias>
-<KeystorePassword> <br />
+java -jar org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar $CipherText $KeystorePath $KeystoreAlias
+$KeystorePassword <br />
 
 eg:  java -jar org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar
 bBa173t6ThRLQOt6Z5BztDC56MXLAwb9cr6gHRJhWSbAGbIG7KaFxNjAuh9pVt/74tY06yKEt
