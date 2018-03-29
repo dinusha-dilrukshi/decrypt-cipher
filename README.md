@@ -8,7 +8,7 @@ these cipher text values for different troubleshooting purposes and check the pl
 used for that. <br />
 
 How to run:<br />
-1. You can build the project from source or download the pre-built jar provided [here](org.wso2.samples.decrypt-1.0-jar)  
+1. You can build the project from source or download the pre-built jar provided [here](prebuilt-jar/org.wso2.samples.decrypt-1.0-jar)  
 
 If you are building from source, clone the repo locally and execute "mvn clean install" to build it. This will create a
 executable jar called 'org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar' in the target directory. <br />
