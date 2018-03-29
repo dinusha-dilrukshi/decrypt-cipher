@@ -18,8 +18,8 @@ executable jar called 'org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar' i
 2. You can execute org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar in two ways. <br />
 (i) Provide inputs as command arguments. <br />
 Command for this is; <br />
-java -jar org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar $CipherText $KeystorePath $KeystoreAlias
-$KeystorePassword <br />
+**java -jar org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar $CipherText  $KeystorePath  $KeystoreAlias
+$KeystorePassword** <br />
 
 eg:  java -jar org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar
 bBa173t6ThRLQOt6Z5BztDC56MXLAwb9cr6gHRJhWSbAGbIG7KaFxNjAuh9pVt/74tY06yKEt
@@ -34,7 +34,7 @@ dinusha <br />
 
 (ii) Execute as interactive commandline inputs <br />
 Command for this is (Inputs will be asked one by one); <br />
-java -jar org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar <br />
+**java -jar org.wso2.samples.decrypt-1.0-jar-with-dependencies.jar** <br />
 
 Encrypted Text : bBa173t6ThRLQOt6Z5BztDC56MXLAwb9cr6gHRJhWSbAGbIG7KaFxNjAuh9pVt/74tY06yKEt/SIgL42QDMQMmMjMgmd9KP9VMtVTMw2EMdW55VETgwHmPzfAiL242M77bpZW/Y9/YTanPQk8KStOxIUI4iAM42lm2z3imbHVh0= <br />
 KeyStore file path : /home/dinusha/wso2is-5.3.0/repository/resources/security/wso2carbon.jks <br />
